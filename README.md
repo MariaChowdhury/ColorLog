@@ -38,7 +38,7 @@ Which will print in the following format:
 13:51:38.487 TEST  ❇️❇️❇️❇️ in ViewController.swift:viewDidLoad():28:: this is a test
 ```
 
-It can be used to print non String as well
+It can be used to print non String as shown
 ``` 
 Log.test(UIView()) 
 ```
