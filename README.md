@@ -68,6 +68,8 @@ All of the logs printed are color/emoji-coded. Aka recognizable by emoji/color.
 
 **By default, debug and info logs are silenced** To change this, set the `logLevel` to be either `.DEBUG`  or `.INFO` (no debugs, just info logs)
 
+
+
 ## Contributions
 
 Feel free to submit any issues for any bugs or make any improvements on the basic [Log](ColorLog/Classes/Log.swift) file. 
